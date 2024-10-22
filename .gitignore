@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Add file types to ignore
+*.html
+*.xlsx
+*.xls
+.csv
+.pdf
+.doc
+.docx
+inputs/*
+outputs/*
+support_files/*
+!/**/.gitkeep
